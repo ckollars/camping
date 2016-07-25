@@ -13,3 +13,4 @@
 * [ ] Pocket Knife
 * [ ] Darn Tough hike trek socks
 * [ ] mtn hardwear merino beanie
+* [ ] battery charger - jakery charger
