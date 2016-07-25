@@ -11,3 +11,4 @@
 * [ ] Pillow
 * [ ] Titanium mug
 * [ ] Pocket Knife
+* [ ] Darn Tough wool socks
