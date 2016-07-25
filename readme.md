@@ -12,3 +12,4 @@
 * [ ] Titanium mug
 * [ ] Pocket Knife
 * [ ] Darn Tough hike trek socks
+* [ ] mtn hardwear merino beanie
