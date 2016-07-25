@@ -9,3 +9,5 @@
 * [ ] 3 more dry sacks
 * [ ] towel
 * [ ] Pillow
+* [ ] Titanium mug
+* [ ] Pocket Knife
