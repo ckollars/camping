@@ -7,9 +7,9 @@
 * [ ] Simple flint/fire starter
 * [ ] Medical kit
 * [ ] 3 more dry sacks
-* [ ] towel
+* [ ] towel - wildhorn MICROLITE MICRO FIBER CAMPING 
 * [ ] Pillow
-* [ ] Titanium mug
+* [ ] Titanium mug - GSI infinity
 * [ ] Pocket Knife
 * [ ] Darn Tough hike trek socks
 * [ ] mtn hardwear merino beanie
